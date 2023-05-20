@@ -2,6 +2,9 @@
 
 This is a XXL Chess Game implemented in Java using the Processing library.
 
+![image](https://github.com/aadityazz/XXL-Chess/assets/67819043/486bdc9b-6738-48b5-a63c-56ddbb501eef)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
