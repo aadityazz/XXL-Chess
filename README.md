@@ -1,4 +1,4 @@
-#XXL Chess Game
+# XXL Chess Game
 
 This is a XXL Chess Game implemented in Java using the Processing library.
 
