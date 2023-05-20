@@ -1,7 +1,6 @@
 import processing.core.*;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Timer;
 
 import Pieces.*;
